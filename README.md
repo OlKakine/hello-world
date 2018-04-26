@@ -7,3 +7,4 @@ I'm new to GitHub and the developer's world in general. Ofc I did programming be
 Waiting to meet yall !!
 
 testint git in atom
+testing new branch in atom
