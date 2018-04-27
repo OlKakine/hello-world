@@ -8,3 +8,6 @@ Waiting to meet y'all !!
 
 testing git in atom
 testing new branch in atom
+testing checkout
+
+atom stage
