@@ -2,7 +2,7 @@
 A place for unknown purposes
 
 Hi everyone,
-I'm new to GitHub and the developer's world in general. Ofc I did programming before, but now I'm gonna be much more organised and concentrated.
+I'm new to GitHub and the developer's world in general. Ofc I did programming before, but now I'm gonna be much more organized and concentrated.
 
 Waiting to meet y'all !!
 
