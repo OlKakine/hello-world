@@ -11,3 +11,5 @@ testing new branch in atom
 testing checkout
 
 atom stage
+
+Now i understand git more.
