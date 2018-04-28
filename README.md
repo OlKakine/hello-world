@@ -13,3 +13,5 @@ testing checkout
 atom stage
 
 Now i understand git more.
+github pull request again
+so now I can push my commits w/o pull request?
